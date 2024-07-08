@@ -1,0 +1,11 @@
+streamlit==1.32.0
+openai==1.12.0
+faiss-cpu==1.7.4
+numpy==1.26.4
+scikit-learn==1.4.0
+tiktoken==0.6.0
+PyPDF2==3.0.1
+python-docx2txt==0.8
+latex2mathml==3.77.0
+requests==2.31.0
+streamlit-ace==0.1.1
