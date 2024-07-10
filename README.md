@@ -36,7 +36,7 @@ DocuMind is an advanced document processing and question-answering system that l
 
 1. Clone the repository:
    ```
-   git clone https://github.com/yourusername/documind.git
+   git clone https://github.com/yorkiedev/documind.git
    cd documind
    ```
 
