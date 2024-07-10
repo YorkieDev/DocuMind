@@ -11,6 +11,15 @@ DocuMind is an advanced document processing and question-answering system that l
 - **LaTeX Rendering**: Supports rendering of LaTeX equations in chat responses.
 - **Code Highlighting**: Displays code snippets with syntax highlighting.
 
+## Screenshots 📸
+<img width="1724" alt="image" src="https://github.com/YorkieDev/DocuMind/assets/42919623/28143490-9185-404d-ba9a-1e8b35ca07f2">
+<img width="322" alt="image" src="https://github.com/YorkieDev/DocuMind/assets/42919623/b529567c-a86f-4489-be43-e6c915c7ad6d">
+<img width="1370" alt="image" src="https://github.com/YorkieDev/DocuMind/assets/42919623/3b949441-a21c-4454-8c74-c956e76aa966">
+
+
+
+
+
 ## Requirements 📋
 
 - Python 3.8+
