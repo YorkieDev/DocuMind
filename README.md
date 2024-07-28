@@ -1,6 +1,6 @@
 # DocuMind: Your Intelligent Document Assistant 🧠
 
-DocuMind is an advanced document processing and question-answering system that leverages the power of Large Language Models (LLMs) and Retrieval-Augmented Generation (RAG) to provide intelligent responses based on your documents and web content.
+DocuMind is an advanced document processing and question-answering system that leverages the power of Large Language Models (LLMs) and Retrieval-Augmented Generation (RAG) to provide intelligent responses based on your documents and web content. (Note: This has only been tested on MacOS, might not work on other operating systems - it's Open Source so feel free to download and modify it to get it to work on your end)
 
 ## Features 🌟
 
